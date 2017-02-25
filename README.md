@@ -1,2 +1,2 @@
 # DomEx
-Enhancement of DOMdocument reoisitory
+Enhancement of DOMdocument repoisitory
